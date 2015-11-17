@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>住宅社区</key>
+	<string>10</string>
+	<key>文化体育</key>
+	<string>20</string>
+	<key>展览观演</key>
+	<string>30</string>
+	<key>卫生医疗</key>
+	<string>40</string>
+	<key>酒店服务</key>
+	<string>50</string>
+	<key>工业建筑</key>
+	<string>60</string>
+	<key>市政道路</key>
+	<string>70</string>
+	<key>园林景观</key>
+	<string>80</string>
+	<key>商业综合</key>
+	<string>90</string>
+	<key>行政办公</key>
+	<string>100</string>
+	<key>农业水利</key>
+	<string>110</string>
+	<key>环保节能</key>
+	<string>120</string>
+	<key>交通运输</key>
+	<string>130</string>
+	<key>公用建筑</key>
+	<string>140</string>
+	<key>特种工程</key>
+	<string>150</string>
+	<key>其他</key>
+	<string>160</string>
+</dict>
+</plist>
